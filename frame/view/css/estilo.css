@@ -1,0 +1,18 @@
+body{
+	padding: 0;
+	margin: 70px 0px;
+	border: 0;
+	background-color: #f9f9f9;
+}
+
+/*nav{
+	border-bottom: 2px solid #aaa;
+}
+*/
+div.areaInsercao{
+	margin: 3% 11%;
+}
+
+div.areaLeitura{
+	margin: 3% 11%;
+}
